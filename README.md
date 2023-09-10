@@ -15,9 +15,6 @@ This project focuses on the analysis of transaction data from a snack chain reta
 - [Statistical Modeling](#statistical-modeling)
 - [Business Questions](#business-questions)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -58,14 +55,3 @@ The project addresses several business questions, including:
 
 To use this project, follow the installation instructions and run the R script. You can explore the analysis, findings, and insights related to the snack chain retail business.
 
-## Contributing
-
-If you want to contribute to this project, please fork the repository, make your changes, and submit a pull request. Contributions, suggestions, and bug reports are welcome.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-We would like to thank [List any contributors or resources here] for their contributions and support in this project.
